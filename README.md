@@ -2,7 +2,7 @@
 
 Bienvenue sur mon GitHub, où je partage mes projets et expérimentations en développement. Passionné par la tech et l'innovation, j'aime apprendre, créer et explorer de nouvelles technologies. 🚀
 
-![Coding](https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif)
+![Nyan Cat](https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif)
 
 ---
 
@@ -16,5 +16,3 @@ Bienvenue sur mon GitHub, où je partage mes projets et expérimentations en dé
 [![LinkHub](https://img.shields.io/badge/LinkHub-Tous%20mes%20liens-FF5733?style=for-the-badge)](https://kuramentooo.github.io/LinkHub/)
 
 💡 **Explore mes projets, laisse une étoile ⭐ et n’hésite pas à me contacter !**
-
-![Coding Loop](https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif)

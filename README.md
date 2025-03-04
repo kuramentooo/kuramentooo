@@ -1,16 +1,14 @@
-## Hi there 👋
+### Salut, bienvenue sur mon GitHub ! 🚀
 
-<!--
-**kuramentooo/kuramentooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ici, vous trouverez tous mes projets liés aux **mangas, animes, jeux vidéo et développement**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Liens utiles
+
+[![Discord](https://img.shields.io/badge/Discord-Rejoindre-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/exbaUF2v5k)
+[![GitLab](https://img.shields.io/badge/GitLab-Projets-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/ClemD05)
+[![CV](https://img.shields.io/badge/CV-En%20ligne-2EA44F?style=for-the-badge)](https://kuramentooo.github.io/dev-portfolio/)
+[![LinkHub](https://img.shields.io/badge/LinkHub-Tous%20mes%20liens-FF5733?style=for-the-badge)](https://kuramentooo.github.io/LinkHub/)
+
+N'hésitez pas à explorer mes repos et à me suivre pour ne rien rater ! ✨
